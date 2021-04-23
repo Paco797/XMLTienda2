@@ -1,0 +1,19 @@
+pedido{
+    background-color:lightpink ;
+}
+nom_cliente{
+    
+    color: blue;
+}
+producto{
+    display: table;
+    
+    
+}
+direccion_cliente,cp_cliente,telf_cliente{
+    display: none;
+}
+id_producto,nom_producto,tipo_caja,prioridad{
+    border: blue 1px solid;
+    display: table-cell;
+}
